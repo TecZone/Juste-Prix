@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1545585612 source:d:\cours et programmation\c++\projet\[c++] juste prix cb\justeprix\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+	<fstream>
+

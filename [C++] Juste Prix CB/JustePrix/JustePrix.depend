@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1545691838 source:d:\cours et programmation\c++\projet\[c++] juste prix cb\justeprix\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+	<fstream>
+	"fonction.h"
+
+1545594782 d:\cours et programmation\c++\projet\[c++] juste prix cb\justeprix\fonction.h
+	<iostream>
+	<string>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+	<fstream>
+
+1545596565 source:d:\cours et programmation\c++\projet\[c++] juste prix cb\justeprix\fonction.cpp
+	"fonction.h"
+	<iostream>
+	<string>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+	<fstream>
+
